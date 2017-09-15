@@ -1,0 +1,23 @@
+Lathund och exempelkommandon för GitHub
+
+Steg för att ladda upp en mapp till GitHub
+1. Gå in i rätt mapp (git bash i mappen eller cb 'mappen')
+2. git init
+3. git status
+4. git add 'fil' (eller -A om man vill adda alla filer i mappen)
+5. git commit -m "Meddelande om ändringar eller vad man gjort med filen"
+6. 
+
+Fork - 
+
+Clone - 
+
+Push - 
+
+Add - 
+
+Commit - 
+
+Origin - 
+
+Pull Request - 
