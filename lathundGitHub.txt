@@ -1,4 +1,5 @@
-Lathund och exempelkommandon för GitHub
+(Ska ändra till visual code)
+Lathund och exempelkommandon för GitHub 
 https://try.github.io/levels/1/challenges/1 
 
 Steg för att ladda upp en mapp till GitHub
