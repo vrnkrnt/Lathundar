@@ -10,18 +10,25 @@ Steg för att ladda upp en mapp till GitHub
    Add rep på GitHub, följ instruktionerna (förslag 2)
 6. För att pusha igen, gör steg 3-5 och skriv sen 'git push'
 
- Fork - En kopia på ett repeositoy där du kan ändra/kommentera och sen 
-	submitta en pull request till ägaren för att h*n ska kunna se ändringarna
+Fork -  Om man klickar på 'Fork' i någon annas rep skapas en kopia på samma rep men i ens 
+	egna profil där du kan ändra/kommentera och sen submitta en pull request till ägaren 
+	för att h*n ska kunna se ändringarna.
+	Man kan också se om någon annan har ändrat/kommenterat sina filer under
+	fliken 'Pull requests' i reppet.
 	https://help.github.com/articles/fork-a-repo/
 
- Clone - 
+Clone - Gå till ett rep, klicka på 'clone/download', kopiera URLen för reppet
+	Öppna git bach i mappen du vill att den ska ligga i 
+	Skriv git clone och URLen, tryck enter
+	https://help.github.com/articles/cloning-a-repository/
 
- Push - 
+Push -  För att ladda up arbetet till GitHub måste man pusha det. 
 
- Add - 
+Add -   För att lägga till filerna i Git så att man kan nå dom från olika datorer
+	och inte bara ha dom lokalt
 
- Commit - 
+Commit - För att lägga till ett meddelande i filerna som man pushar till GitHub
 
- Origin - 
+Origin - 
 
- Pull Request - 
+Pull Request - 
