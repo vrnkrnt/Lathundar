@@ -9,148 +9,141 @@ Alfabetisk ordning:
 
 ### A
 
-Agile: 
-`Att vara positiv och frammåt, nytänkande`
-
-AJAX: 
+AJAX
 `Asyncrom JavaScript And Xml`
 
------------
+ASYNKRONT
+`Man get alla information på en gång utan att kolla om informationen uppfattas`
+
 ### B
 
------------
 ### C
 
-CRUD: 
+CD
+`Continues Deployment`
+
+CI
+`Continues Integration`
+
+CRUD
 `Create, Read, Update, Delete`
 
-CSS: 
+CSS
 `Cascade Style Sheet`
 
------------
 ### D
 
-DLL: 
+DLL
 `Dynamic Link Library`
 
-DOM: 
-`Document Open Model`
+DOM
+`Document Object Model`
 
------------
 ### E
 
-Empirism: 
+Empirism
 `Att våga prova`
 
------------
 ### F
 
------------
 ### G
 
------------
+GNOKKING
+`Att man förstår något övergripande eller helt och hållet. Finns olika tolkningar.`
+
 ### H
 
-HTML: 
+HTML
 `Hyper Text Markup Language`
 
-HTTP: 
+HTTP
 `Hyper Text Transfer Protocol, har verb, tex Get`
 
------------
 ### I
 
------------
 ### J
 
-JavaScript: 
+JavaScript
 `Otypat språk, funktionsbaserat (function x (....)`
 
-JSON: 
+JSON
 `JavaScript Object Notation`
 
------------
 ### K
 
-Knockout: 
+Knockout
 `Hjälper till med att hantera data och uppdaterar i realtid`
 
------------
+KONKATENERING
+`Att lägga ihop två strängar, tex: `
+```c#
+String a = "Hej "; 
+String b = "Kalle"; 
+String concat = a + b;
+```
+
 ### L
 
-LINQ: 
+LINQ
 `Language Integrated Query`
 
------------
 ### M
 
-MVC: 
+MVC
 `Model View Controller (ansvar för att det blir bra, model -> view)`
 
------------
 ### N
 
------------
 ### O
 
-ORM: 
+ORM
 `Object Relational Mapper`
 
------------
 ### P
 
-Partial: 
 `Ett slags klassnamn`
 
------------
 ### Q
 
------------
 ### R
 
-Razor: 
+Razor
 `View Enginge, hjälper till att skapa HTML, kallas Template`
 
-Repository: 
+Repository
 `Där man lagrar data, datalagring`
 
------------
 ### S
 
-SOC: 
+SOC
 `Separation Of Concern`
 
-SQL: 
+SPA
+`Single Page Application`
+
+SQL
 `Structured Query Language`
 
------------
 ### T
 
------------
 ### U
 
------------
 ### V
 
------------
+VSTS
+`Visual Studio Team Sirvices`
+
 ### X
 
-XML: 
+XML
 `Extended Markup Language`
 
------------
 ### Y
 
------------
 ### Z
 
------------
 ### Å
 
------------
 ### Ä
 
------------
 ### Ö 
-
------------
