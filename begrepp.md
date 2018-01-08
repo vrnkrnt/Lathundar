@@ -12,7 +12,7 @@ Alfabetisk ordning:
 AJAX
 `Asyncrom JavaScript And Xml`
 
-ASYNKRONT
+Asynkront
 `Man get alla information på en gång utan att kolla om informationen uppfattas`
 
 ### B
@@ -48,7 +48,7 @@ Empirism
 
 ### G
 
-GNOKKING
+Grokking
 `Att man förstår något övergripande eller helt och hållet. Finns olika tolkningar.`
 
 ### H
@@ -74,7 +74,7 @@ JSON
 Knockout
 `Hjälper till med att hantera data och uppdaterar i realtid`
 
-KONKATENERING
+Konkatenering
 `Att lägga ihop två strängar, tex: `
 ```c#
 String a = "Hej "; 
