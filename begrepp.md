@@ -3,6 +3,7 @@ Begrepp
 
 Bra länkar
 -----------
+[.md Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 Alfabetisk ordning:
 -----------
@@ -10,7 +11,8 @@ Alfabetisk ordning:
 ### A
 
 AJAX
-`Asyncrom JavaScript And Xml`
+`Asyncrom JavaScript And Xml - man ska kunna: ` 
+ * `uppdatera utan att ladda om hela sidan`
 
 Asynkront
 `Man get alla information på en gång utan att kolla om informationen uppfattas`
@@ -37,22 +39,23 @@ DLL
 `Dynamic Link Library`
 
 DOM
-`Document Object Model`
+`Document Object Model - Logisk bild av vad webbläsaren ska göra åt oss, bra att ha om man vill förstå hur hemsidan ska se.`
 
 DRY
 `Don't Repeat Yourself!`
 
 ### E
 
-Empirism
-`Att våga prova`
+Element `Det som är inne i start- och sluttaggarna.`
+
+Empirism `Att våga prova`
 
 ### F
 
 ### G
 
 Grokking
-`Att man förstår något övergripande eller helt och hållet. Finns olika tolkningar.`
+`Att man kan/förklarar något övergripande och kanske läser på tillräckligt mycket för att kunna förklara det övergripande för någon annan`
 
 ### H
 
@@ -96,6 +99,9 @@ JSON
 `JavaScript Object Notation`
 
 ### K
+
+Keysensitive
+`Att det är viktigt hur man skriver koden, tex. stora och små bokstäver`
 
 Knockout
 `Hjälper till med att hantera data och uppdaterar i realtid`
@@ -145,6 +151,10 @@ Repository
 
 ### S
 
+Semantisk
+`Att det ska betyda någonting, tex att ett namn ska ha en viss betydelse`
+
+
 SEO
 `Search Engine Optimization`
 
@@ -157,7 +167,22 @@ SPA
 SQL
 `Structured Query Language`
 
+Status `Oftast vad man får för status åp en hemsida`
+* 200: "OK"
+* 300: "Redirect"
+* 403: "Forbidden"
+* 404: "Page not find"
+* [Fler status meddelanden...](https://www.w3schools.com/tags/ref_httpmessages.asp
+)
+
+
 ### T
+
+Tag: `Starttag och sluttag, tex:` 
+```html
+<p></p> och <h1></h1> 
+```
+
 
 ### U
 
