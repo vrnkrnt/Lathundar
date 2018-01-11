@@ -39,6 +39,9 @@ DLL
 DOM
 `Document Object Model`
 
+DRY
+`Don't Repeat Yourself!`
+
 ### E
 
 Empirism
@@ -56,8 +59,31 @@ Grokking
 HTML
 `Hyper Text Markup Language`
 
+`Lathund HTML`
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+
+    </style>
+</head>
+    <body>
+
+    </body>
+</html>
+```
+
 HTTP
-`Hyper Text Transfer Protocol, har verb, tex Get`
+`Hyper Text Transfer Protocol, har verben:`
+* GET
+* POST
+* HEAD
+* PUT
+* DELETE
+* TRACE
+* OPTIONS
+* CONNECT
 
 ### I
 
@@ -87,6 +113,9 @@ String concat = a + b;
 LINQ
 `Language Integrated Query`
 
+Local Host IP Number
+`127.0.0.1`
+
 ### M
 
 MVC
@@ -101,8 +130,6 @@ ORM
 
 ### P
 
-`Ett slags klassnamn`
-
 ### Q
 
 ### R
@@ -110,10 +137,16 @@ ORM
 Razor
 `View Enginge, hjälper till att skapa HTML, kallas Template`
 
+RSVP
+`Répondez S'il Vous Plaît (OSA internationelt)`
+
 Repository
 `Där man lagrar data, datalagring`
 
 ### S
+
+SEO
+`Search Engine Optimization`
 
 SOC
 `Separation Of Concern`
