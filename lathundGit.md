@@ -102,6 +102,9 @@ Visa remote detaljer:
 Lägg till remote origin från GitHub projekt:
 `git remote add origin https://github.com/user/project.git`
 
+Radera remote origin:
+`git remote remove origin`
+
 Visa alla branches:
 `git branch -a`
 
