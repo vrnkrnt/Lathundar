@@ -146,8 +146,7 @@ Randera remote branch (pusha ingenting):
 Allmänt
 -----------
 
-### Please enter a commit message to explain why this merge is necessary
-`To solve: `
+### Lösa: Please enter a commit message to explain why this merge is necessary
 1. `Tryck 'i'`
 2. `Skriv varför du ska comitta`
 3. `tryck 'Esc'`
