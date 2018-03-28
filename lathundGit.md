@@ -78,10 +78,10 @@ Gitignore & Gitkeep
 Skapa en tom textfil med .gitignore för att få med mappen dör filen ligger
 
 Add eller ändra gitignore: 
-`nano .gitignore`
+`touch .gitignore`
 
 Hitta tomma mappar: 
-`touch dir/.gitkeep`
+`touch .gitkeep`
 
 Log
 -----------
@@ -104,6 +104,9 @@ Lägg till remote origin från GitHub projekt:
 
 Radera remote origin:
 `git remote remove origin`
+
+Radera remote:
+`git remote rm remotename`
 
 Visa alla branches:
 `git branch -a`
@@ -129,12 +132,26 @@ Merge hämtade commits:
 Clona till localhost:
 `git clone https://github.com/user/project.git`
 
+Byta branch:
+
+1. `git remote rename origin upstream`
+2. `git remote add origin URL_TO_GITHUB_REPO`
+3. `git push origin master`
+
+
 Randera remote branch (pusha ingenting):
 `git push origin :branchNamn` eller:
 `git push origin --delete branchNamn`
 
 Allmänt
 -----------
+
+### Please enter a commit message to explain why this merge is necessary
+`To solve: `
+1. `Tryck 'i'`
+2. `Skriv varför du ska comitta`
+3. `tryck 'Esc'`
+4. `Skriv '.wq' + enter`
 
 ### Steg för att ladda upp en mapp till GitHub 
 
