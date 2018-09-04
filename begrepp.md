@@ -33,12 +33,24 @@ Aggregera
 AJAX
 `Asyncrom JavaScript And Xml - man ska kunna: ` 
  * `uppdatera utan att ladda om hela sidan`
+ 
+ Aktivitetsbaserat kontor
+ `Flexibla platser med olika fuktioner. Tex 2 skärmar, höj och sänkbart bord, olika utrustning mm...`
+ 
+ AP
+ `Action Punkter`
 
 API
 `Application Programming Interface - Gränssnitt mellan applikation och bibliotek, hjälper företag att dela data på ett kontrollerat sätt. Att kunna prata med applikatoiner`
 
+Aptilo
+`Företag som producerar och marknadsför programvarusystem för att hantera mobildata och WiFi tjänster för 3G, LTE, WiMAX, WiFi och internetuppkoppling`
+
 Asynkront
 `Man get alla information på en gång utan att kolla om informationen uppfattas`
+
+Atea
+`Företag som levererar digitala skyltar (infrastrukurföretag)`
 
 ### B
 
@@ -48,7 +60,13 @@ B2B
 B2C
 `Business to Customer`
 
+BizzTalk
+`XML baserat EAI (Enterprise Application Integration)`
+
 ### C
+
+CAB
+`Change Advisor Board`
 
 CD
 `Continues Deployment`
@@ -58,6 +76,9 @@ CDN
 
 CLI
 `Comand Line Interface`
+
+CM 
+`Change Manager`
 
 CI
 `Continues Integration`
@@ -89,6 +110,9 @@ DOM
 DRY
 `Don't Repeat Yourself!`
 
+DXC
+`Leverantör av IT ServiceDesc (förr CSC)`
+
 ### E
 
 Element 
@@ -97,10 +121,18 @@ Element
 Empirism 
 `Att våga prova`
 
+EOL
+`End Of Life (När en produkt eller tjänst måste bytas ut. Kan tex vara pga skick eller ålder`
 Exponera
 `Att visa upp något, tex en produkt eller att öppna ett skåp och visa vad som fins i`
 
 ### F
+
+Fast Track
+`Om det är en väldigt liten ändring som inte behöver gå igenom ett CAB möte kan den ta en fast`
+
+FSB
+`Flyg Säkerhets Beredskap (Flight Safety Affected) `
 
 ### G
 
@@ -127,6 +159,9 @@ HTML
 </html>
 ```
 
+HR
+`Human Resources`
+
 HTTP
 `Hyper Text Transfer Protocol, har verben:`
 * GET
@@ -140,11 +175,16 @@ HTTP
 
 ### I
 
+IAM
+`Identity Access Manager (Sara + Lars 2018)`
 IDE
 `Integrated Development Environment`
 
 IEnumerable
 `Inumerera värderna, man kan gå genom från första värdet till sista`
+
+IFS
+`Industrial and Financial Systems (Utvecklar, säljer och implementerar ett egenutvecklat komponentbaserat affärssystem)
 
 ### J
 
@@ -155,6 +195,9 @@ JSON
 `JavaScript Object Notation`
 
 ### K
+
+Kayako
+`Help Desk Software Center`
 
 Keysensitive
 `Att det är viktigt hur man skriver koden, tex. stora och små bokstäver`
@@ -183,6 +226,9 @@ Local Host IP Number
 M2M
 `Machine to Machine`
 
+Monitorer
+`Alla skärmar`
+
 Mongo
 `Humongos`
 
@@ -191,6 +237,8 @@ MVC
 
 ### N
 
+N/A
+`Not Acceptable eller Not Anvailable`
 Node
 `Exikveringsmotor, kan användas som webbläsare`
 
@@ -207,6 +255,9 @@ ORM
 
 ### P
 
+PCI
+`Personal Comfiguration Item`
+
 ### Q
 
 ### R
@@ -216,6 +267,12 @@ Razor
 
 Regrition
 `Återblick`
+
+RollBack
+`För att slippa avslå hela den processen som RFCn har gått så att den måste börja om från början. Då hoppar man tillbaka en bit i stegen för att slippa onödigt jobb`
+
+RFC
+`Request For Change`
 
 Repository
 `Där man lagrar data, datalagring andvänder sig ofta av CRUD`
@@ -235,14 +292,27 @@ RSVP
 Scrum
 `Att man som lag får bollen i mål. Ingen förkortning`
 
+SDM 
+`Service Delivery Manager`
+(DM - Delivery Manager)
+
 Semantisk
 `Att det ska betyda någonting, tex att ett namn ska ha en viss betydelse`
 
 SEO
 `Search Engine Optimization`
 
+ServiceNow
+`En hemsida/databas internt på Swedavia där man för in RFCer (request for change). Finns även develop miljö där man kan testa eller lära känna systemet.`
+
 Serialisera
 `Man formaterar något till ren text`
+
+SLA
+`Service Level Agreement`
+
+Slutanvändare
+`De som använder en vara eller tjänst`
 
 SOC
 `Separation Of Concern`
@@ -256,7 +326,7 @@ SQL
 SSI
 `Stora Stygga Internet - rolig förkortning`
 
-Status `Oftast vad man får för status åp en hemsida`
+Status `Oftast vad man får för status på en hemsida`
 * 200: "OK"
 * 300: "Redirect"
 * 403: "Forbidden"
@@ -273,6 +343,9 @@ Tag: `Starttag och sluttag, tex:`
 <p></p> och <h1></h1> 
 ```
 
+TDC 
+`Danmarks motsvarighet till Telia, uppköt av Tele2 2016`
+
 TDN
 `Top Level Domain - tex .se .org .com`
 
@@ -280,6 +353,12 @@ TDN
 ### U
 
 ### V
+
+VPN
+`Virtual Private Network`
+
+VRF 
+`Virtual Roaming and Forwarding`
 
 VSTS
 `Visual Studio Team Sirvices`
