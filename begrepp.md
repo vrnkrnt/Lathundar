@@ -63,6 +63,9 @@ B2C
 BizzTalk
 `XML baserat EAI (Enterprise Application Integration)`
 
+BRM 
+`Ett företag vars expertområde är kriser (IT)`
+
 ### C
 
 CAB
@@ -82,6 +85,9 @@ CM
 
 CI
 `Continues Integration`
+
+CIO
+`It Direktör (Cheif Information Officer)`
 
 CRUD
 `Create, Read, Update, Delete`
@@ -123,6 +129,7 @@ Empirism
 
 EOL
 `End Of Life (När en produkt eller tjänst måste bytas ut. Kan tex vara pga skick eller ålder`
+
 Exponera
 `Att visa upp något, tex en produkt eller att öppna ett skåp och visa vad som fins i`
 
@@ -184,7 +191,13 @@ IEnumerable
 `Inumerera värderna, man kan gå genom från första värdet till sista`
 
 IFS
-`Industrial and Financial Systems (Utvecklar, säljer och implementerar ett egenutvecklat komponentbaserat affärssystem)
+`Industrial and Financial Systems (Utvecklar, säljer och implementerar ett egenutvecklat komponentbaserat affärssystem)`
+
+IT Principer (Swedavia)
+`Riktlinjer`
+
+ITIL 
+`Information Technology Infrastructure Library`
 
 ### J
 
@@ -257,6 +270,9 @@ ORM
 
 PCI
 `Personal Comfiguration Item`
+
+PDCA 
+`Plan Do Check Act`
 
 ### Q
 
