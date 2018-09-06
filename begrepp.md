@@ -84,7 +84,7 @@ CM
 `Change Manager`
 
 CI
-`Continues Integration`
+`Continues Integration - Exempel GitHub, ett sätt att motverka mega errors. Man kör tester kontinuerligt, om testen blir godkänd så kan man implementera koden, annars får man leta upp felet och testköra igen.`
 
 CIO
 `It Direktör (Cheif Information Officer)`
