@@ -78,7 +78,7 @@ CD
 `Continues Deployment`
 
 CDN
-``
+`Content Delivery Network - "Ett nätverk för leverans av innehåll". Fler servrar eller nodar leverear samma info till fler användare, på så sätt blir det kortare laddtider, snabbare webbplatser, sökoptimering, man kan ladda ner saker parallellt, ökad total brandbredd och risken för serverkrash minskar`
 
 CLI
 `Comand Line Interface`
