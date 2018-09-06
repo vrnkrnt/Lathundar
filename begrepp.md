@@ -400,6 +400,7 @@ VPN
 VRF (Cisco)
 `Virtual Roaming and Forwarding. Ser alltid likadan ut men en nätverksswitch kan innehålla fler VRF`
 [mer info ->](https://www.cisco.com/c/en/us/td/docs/voice_ip_comm/cucme/vrf/design/guide/vrfDesignGuide.html)
+[ännu mer info...](http://packetlife.net/blog/2010/mar/29/inter-vrf-routing-vrf-lite/)
 
 VSTS
 `Visual Studio Team Sirvices`
