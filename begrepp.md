@@ -66,6 +66,9 @@ BizzTalk
 BRM 
 `Ett företag vars expertområde är kriser (IT)`
 
+Börkrav
+`Krav som ***bör*** finnas med (tillskillnad från skallkrav som måste finnas med)`
+
 ### C
 
 CAB
@@ -139,15 +142,21 @@ Fast Track
 `Om det är en väldigt liten ändring som inte behöver gå igenom ett CAB möte kan den ta en fast`
 
 FSB
-`Flyg Säkerhets Bedömning/Bevisning (Flight Safety Affected) `
+`Flyg Säkerhets Bedömning/Bevisning (Flight Safety Affected). Viktigt dokument som sammanställer riskerna för en RFC. Man skickar oftast in en FSB innan en RFC. Bra att ha ett underlag om något skulle hända`
 
 ### G
+
+GDPR
+`General Data Protection Regulations`
 
 GIPS
 `Global Investment Performance Standards, skapar prestanda presentationer` [mer info ->](https://www.investopedia.com/terms/g/gips.asp)
 
 Grokking
 `Att man kan/förklarar något övergripande och kanske läser på tillräckligt mycket för att kunna förklara det övergripande för någon annan`
+
+GTIR 
+`Global Thret Intelligence Report `
 
 ### H
 
@@ -242,6 +251,9 @@ Local Host IP Number
 M2M
 `Machine to Machine`
 
+MDM Platform
+`Mobile Device Management Platform - Mobiler, laptops, surfplattor`
+
 Monitorer
 `Alla skärmar`
 
@@ -331,6 +343,9 @@ ServiceNow
 Serialisera
 `Man formaterar något till ren text`
 
+Skallkrav
+`Krav som ***måste*** finnas med (till skillnad från börkrav där kravet borde finnas med)`
+
 SLA
 `Service Level Agreement`
 
@@ -358,6 +373,8 @@ Status `Oftast vad man får för status på en hemsida`
 * [Fler status meddelanden...](https://www.w3schools.com/tags/ref_httpmessages.asp
 )
 
+SUCO (Swedavia)
+`Changehanteringsprocess inom changehanteringsprocessen, BHS eller PGS (system på Swedavia IT men driftas inte på Swedavia IT) går igenom där. Ska tas bort hösten 2018`
 
 ### T
 
@@ -380,8 +397,9 @@ TDN
 VPN
 `Virtual Private Network`
 
-VRF 
-`Virtual Roaming and Forwarding`
+VRF (Cisco)
+`Virtual Roaming and Forwarding. Ser alltid likadan ut men en nätverksswitch kan innehålla fler VRF`
+[mer info ->](https://www.cisco.com/c/en/us/td/docs/voice_ip_comm/cucme/vrf/design/guide/vrfDesignGuide.html)
 
 VSTS
 `Visual Studio Team Sirvices`
