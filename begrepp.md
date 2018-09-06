@@ -205,6 +205,9 @@ IEnumerable
 IFS
 `Industrial and Financial Systems (Utvecklar, säljer och implementerar ett egenutvecklat komponentbaserat affärssystem)`
 
+IoT
+`Intenet of Things` [mer info ->](https://iotsverige.se/internet-things/)
+
 IT Principer (Swedavia)
 `Riktlinjer`
 
@@ -240,11 +243,20 @@ String concat = a + b;
 
 ### L
 
+LFV
+`Luftfartsverket - har ansvar för allt 300m över marken`
+
 LINQ
 `Language Integrated Query`
 
 Local Host IP Number
 `127.0.0.1`
+
+LOU
+`Lagen om offentlig upphandling `
+
+LUF
+`Lagen om upphandling inom områdena vatten, energi, transporter och posttjänster `
 
 ### M
 
