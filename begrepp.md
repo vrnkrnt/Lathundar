@@ -263,6 +263,9 @@ NUGET
 
 ### O
 
+OPS
+`Open Platform Communications (OLE for Platforms). Används för att koppla samman flera olika system så att de kan prata och hämta/lämna data emellan systemen (liknar BizTalk). [Mer info](https://www.novotek.com/sv/l-sningar/kepware-opc-kommunikationsplattform/opc-och-opc-ua-en-foerklaring)`
+
 ORM
 `Object Relational Mapper`
 
