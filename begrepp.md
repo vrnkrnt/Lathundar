@@ -88,7 +88,7 @@ CM
 
 CI
 `Continues Integration - Exempel GitHub, ett sätt att motverka mega errors. Man kör tester kontinuerligt, om testen blir godkänd så kan man implementera koden, annars får man leta upp felet och testköra igen.`
-`Configuration Item - Någon komponent, system, program eller produkt som påverkar systemet`
+`Configuration Item - Någon komponent, system, plan, mjukvara, modell, dokument eller produkt som påverkar systemet`
 
 CIO
 `It Direktör (Cheif Information Officer)`
