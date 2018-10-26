@@ -29,93 +29,120 @@ Alfabetisk ordning:
 `Arrange Act Assert - ... ... Säkerhet`
 
 **Aggregera**
+
 `Att sätta ihop flera saker tex. tjänster till en bättre produkt`
 
 **AJAX**
+
 `Asyncrom JavaScript And Xml - man ska kunna: ` 
  * `uppdatera utan att ladda om hela sidan`
  
- Aktivitetsbaserat kontor
+ **Aktivitetsbaserat kontor**
+ 
  `Flexibla platser med olika fuktioner. Tex 2 skärmar, höj och sänkbart bord, olika utrustning mm...`
  
- AP
+ **AP**
+ 
  `Action Punkter`
 
-API
+**API**
+
 `Application Programming Interface - Gränssnitt mellan applikation och bibliotek, hjälper företag att dela data på ett kontrollerat sätt. Att kunna prata med applikatoiner`
 
-Aptilo
+**Aptilo**
+
 `Företag som producerar och marknadsför programvarusystem för att hantera mobildata och WiFi tjänster för 3G, LTE, WiMAX, WiFi och internetuppkoppling`
 
-Asynkront
+**Asynkront**
+
 `Man get alla information på en gång utan att kolla om informationen uppfattas`
 
-Atea
+**Atea**
+
 `Företag som levererar digitala skyltar (infrastrukurföretag)`
 
 ### B
 
-B2B
+**B2B**
+
 `Business to Business`
 
-B2C
+**B2C**
+
 `Business to Customer`
 
-BizzTalk
+**BizzTalk**
+
 `XML baserat EAI (Enterprise Application Integration)`
 
-BRM 
+**BLOB**
+
+`Binary Large Object`
+
+**BRM**
+
 `Ett företag vars expertområde är kriser (IT)`
 
-Börkrav
+**Börkrav**
+
 `Krav som ***bör*** finnas med (tillskillnad från skallkrav som måste finnas med)`
 
 ### C
 
-CAB
+**CAB**
+
 `Change Advisor Board`
 
-CD
+**CD**
+
 `Continues Deployment`
 
-CDN
+**CDN**
+
 `Content Delivery Network - "Ett nätverk för leverans av innehåll". Fler servrar eller nodar leverear samma info till fler användare, på så sätt blir det kortare laddtider, snabbare webbplatser, sökoptimering, man kan ladda ner saker parallellt, ökad total brandbredd och risken för serverkrash minskar`
 
-CLI
+**CLI**
+
 `Comand Line Interface`
 
-CM 
+**CM**
+
 `Change Manager`
 
-CI
+**CI**
+
 `Continues Integration - Exempel GitHub, ett sätt att motverka mega errors. Man kör tester kontinuerligt, om testen blir godkänd så kan man implementera koden, annars får man leta upp felet och testköra igen.`
 `Configuration Item - Någon komponent, system, plan, mjukvara, modell, dokument eller produkt som påverkar systemet`
 
-CIO
+**CIO**
+
 `It Direktör (Cheif Information Officer)`
 
-CRUD
+**CRUD**
+
 `Create, Read, Update, Delete`
 `POST, GET, PUT, DELETE`
 
-CSS
+**CSS**
+
 `Cascade Style Sheet`
 
 ### D
 
-Backlog
+**Backlog**
+
 `En lista på vad som ska göras`
 
-DevOps
+**DevOps**
+
 `Development Operations - `
 
-DLL
+**DLL**
+
 `Dynamic Link Library`
 
-BLOB
-`Binary Large Object`
+**DOM**
 
-DOM
 `Document Object Model - Logisk bild av vad webbläsaren ska göra åt oss, bra att ha om man vill förstå hur hemsidan ska se.`
 
 DRY
