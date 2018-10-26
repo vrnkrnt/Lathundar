@@ -146,51 +146,64 @@ Alfabetisk ordning:
 
 `Document Object Model - Logisk bild av vad webbläsaren ska göra åt oss, bra att ha om man vill förstå hur hemsidan ska se.`
 
-DRY
+**DRY**
+
 `Don't Repeat Yourself!`
 
-DXC
+**DXC**
+
 `Leverantör av IT ServiceDesc (förr CSC)`
 
 ### E
 
-Element 
+**Element**
+
 `Det som är inne i start- och sluttaggarna.`
 
-Empirism 
+**Empirism**
+
 `Att våga prova`
 
-EOL
+**EOL**
+
 `End Of Life (När en produkt eller tjänst måste bytas ut. Kan tex vara pga skick eller ålder`
 
-Exponera
+**Exponera**
+
 `Att visa upp något, tex en produkt eller att öppna ett skåp och visa vad som fins i`
 
 ### F
 
-Fast Track
+**Fast Track**
+
 `Om det är en väldigt liten ändring som inte behöver gå igenom ett CAB möte kan den ta en fast`
 
-FSB
+**FSB**
+
 `Flyg Säkerhets Bedömning/Bevisning (Flight Safety Affected). Viktigt dokument som sammanställer riskerna för en RFC. Man skickar oftast in en FSB innan en RFC. Bra att ha ett underlag om något skulle hända`
 
 ### G
 
-GDPR
+**GDPR**
+
 `General Data Protection Regulations`
 
-GIPS
+**GIPS**
+
 `Global Investment Performance Standards, skapar prestanda presentationer` [mer info ->](https://www.investopedia.com/terms/g/gips.asp)
 
-Grokking
+**Grokking**
+
 `Att man kan/förklarar något övergripande och kanske läser på tillräckligt mycket för att kunna förklara det övergripande för någon annan`
 
-GTIR 
+**GTIR**
+
 `Global Thret Intelligence Report `
 
 ### H
 
-HTML
+**HTML**
+
 `Hyper Text Markup Language`
 
 `Lathund HTML`
@@ -208,10 +221,12 @@ HTML
 </html>
 ```
 
-HR
+**HR**
+
 `Human Resources`
 
-HTTP
+**HTTP**
+
 `Hyper Text Transfer Protocol, har verben:`
 * GET
 * POST
@@ -224,15 +239,20 @@ HTTP
 
 ### I
 
-IAM
+**IAM**
+
 `Identity Access Manager (Sara + Lars 2018)`
-IDE
+
+**IDE**
+
 `Integrated Development Environment`
 
-IEnumerable
+**IEnumerable**
+
 `Inumerera värderna, man kan gå genom från första värdet till sista`
 
-IFS
+**IFS**
+
 `Industrial and Financial Systems (Utvecklar, säljer och implementerar ett egenutvecklat komponentbaserat affärssystem)`
 
 IoT
