@@ -20,17 +20,18 @@ Alfabetisk ordning:
 ### #!?.
 
 **.json**
-`Innehåller alla paket, tar bort och lägger till, håller koll på filer och program`
+
+>Innehåller alla paket, tar bort och lägger till, håller koll på filer och program
 
 ### A
 
 **A/A/A**
 
-`Arrange Act Assert - ... ... Säkerhet`
+>Arrange Act Assert - ... ... Säkerhet
 
 **Aggregera**
 
-`Att sätta ihop flera saker tex. tjänster till en bättre produkt`
+>Att sätta ihop flera saker tex. tjänster till en bättre produkt
 
 **AJAX**
 
