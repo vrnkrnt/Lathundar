@@ -19,7 +19,7 @@ Alfabetisk ordning:
 
 ### #!?.
 
-.json
+**.json**
 `Innehåller alla paket, tar bort och lägger till, håller koll på filer och program`
 
 ### A
@@ -28,10 +28,10 @@ Alfabetisk ordning:
 
 `Arrange Act Assert - ... ... Säkerhet`
 
-Aggregera
+**Aggregera**
 `Att sätta ihop flera saker tex. tjänster till en bättre produkt`
 
-AJAX
+**AJAX**
 `Asyncrom JavaScript And Xml - man ska kunna: ` 
  * `uppdatera utan att ladda om hela sidan`
  
